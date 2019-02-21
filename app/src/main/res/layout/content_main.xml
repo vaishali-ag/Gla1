@@ -24,13 +24,4 @@
         tools:layout_editor_absoluteX="94dp"
         tools:layout_editor_absoluteY="175dp" />
 
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Name"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="39dp" />
 </android.support.constraint.ConstraintLayout>
